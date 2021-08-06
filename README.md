@@ -1,7 +1,7 @@
 # Sorter 
-this is simple **number** (array) , **string** , **linked-list** sorter. 
+a simple **number** (array) , **string** , **linked-list** sorter. 
 
-to use this project first u need to clone it and and install the need packages:
+to use this project first u need to clone it and and install the need dependencies:
 ```bash 
 npm install
 ```
